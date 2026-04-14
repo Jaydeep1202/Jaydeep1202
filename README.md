@@ -8,15 +8,28 @@
 ---
 
 <!-- GIF BANNER -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</p>
+
+---
+
+## 💫 Who Am I  
+
+<p align="center">
+I’m a Computer Engineering student who enjoys building practical, real-world applications.<br>
+Currently focused on Android development and backend systems, while strengthening my DSA fundamentals.<br>
+I prefer creating solutions that are simple, scalable, and actually useful in real life.
+</p>
 
 ---
 
 ## 🚀 About Me  
+
 - 🎓 Computer Engineering @ DYPCET  
 - 📱 Building **Android Healthcare App**  
 - 🌱 Learning **DSA (Trees & Graphs in Java)**  
-- ⚡ Focused on **real-world impactful projects**  
+- ⚡ Interested in **impactful & scalable tech solutions**  
 
 ---
 
@@ -52,7 +65,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/jaydeep-kine-77bab0193/)">
+  <a href="https://www.linkedin.com/in/jaydeep-kine-77bab0193/">
     <img src="https://img.shields.io/badge/LinkedIn-Jaydeep-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jaydeep@rtac.in">
