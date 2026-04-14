@@ -9,7 +9,7 @@
 
 <!-- GIF BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbhaySingh999/AbhaySingh999/main/assets/coding.gif" width="600"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600"/>
 </p>
 
 ---
