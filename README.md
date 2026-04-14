@@ -28,6 +28,13 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,c,cpp,androidstudio,firebase,flutter,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
+
 
 ## GitHub Stats  
 
@@ -53,10 +60,10 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaydeep-kine-77bab0193/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:jaydeep@rtac.in">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
