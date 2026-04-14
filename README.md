@@ -1,49 +1,76 @@
-<h1 align="center">Hi 👋, I'm Jaydeep Kine</h1>
-<h3 align="center">Aspiring Developer | Android & Backend Enthusiast</h3>
+<!-- HEADER -->
+<h1 align="center">Hey 👋, I'm Jaydeep Kine</h1>
 
----
-
-### 🚀 About Me
-- 🎓 Student at DYPCET (Computer Engineering)
-- 💻 Working on **Android Healthcare App**
-- 🌱 Currently learning **DSA (Trees & Graphs in Java)**
-- ⚡ Interested in **Real-world impactful projects**
-
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android+Developer;Backend+Enthusiast;DSA+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<!-- GIF BANNER -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaydeep1202&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaydeep1202&theme=tokyonight"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
 
-### 🔥 Contribution Graph
+## 🚀 About Me  
+- 🎓 Computer Engineering @ DYPCET  
+- 📱 Building **Android Healthcare App**  
+- 🌱 Learning **DSA (Trees & Graphs in Java)**  
+- ⚡ Focused on **real-world impactful projects**  
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaydeep1202&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaydeep1202&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep1202&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaydeep-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/jaydeep-kine-77bab0193/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Jaydeep-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jaydeep@rtac.in">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Fun Line
-> "Building things that actually matter 🚀"
+## ⚡ Fun Line  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <b>Jaydeep1202</b> — Keep Building 🚀
+</p>
