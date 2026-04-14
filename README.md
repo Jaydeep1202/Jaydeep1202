@@ -25,14 +25,7 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
 ##  Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,c,cpp,androidstudio,firebase,flutter,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,java,c,cpp,python,androidstudio,firebase,flutter,react,nodejs,express,mongodb,git,github,vscode,postman,linux,figma,bootstrap,tailwind,kotlin,docker" />
 </p>
 
 
