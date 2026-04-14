@@ -23,8 +23,9 @@
 ---
 
 ## 🛠️ Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,c,cpp,androidstudio,firebase,flutter,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
