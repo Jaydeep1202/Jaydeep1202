@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android+Developer;Backend+Enthusiast;DSA+Learner;Building+Real+World+Projects" />
 </p>
 
----
 
 <!-- GIF BANNER -->
 <p align="center">
@@ -29,9 +28,8 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,c,cpp,androidstudio,firebase,flutter,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
----
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaydeep1202&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -42,27 +40,26 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep1202&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+
 
 ## Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaydeep-kine-77bab0193/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaydeep-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jaydeep-kine-77bab0193/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:jaydeep@rtac.in">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
----
 
 
 
