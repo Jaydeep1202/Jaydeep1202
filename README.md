@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hey 👋, I'm Jaydeep Kine</h1>
+<h1 align="center">Hey , I'm Jaydeep Kine</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android+Developer;Backend+Enthusiast;DSA+Learner;Building+Real+World+Projects" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 💫 Who Am I  
+##  Who Am I  
 
 <p align="center">
 I’m a Computer Engineering student who enjoys building practical, real-world applications.<br>
@@ -22,18 +22,8 @@ Currently focused on Android development and backend systems, while strengthenin
 I prefer creating solutions that are simple, scalable, and actually useful in real life.
 </p>
 
----
 
-## 🚀 About Me  
-
-- 🎓 Computer Engineering @ DYPCET  
-- 📱 Building **Android Healthcare App**  
-- 🌱 Learning **DSA (Trees & Graphs in Java)**  
-- ⚡ Interested in **impactful & scalable tech solutions**  
-
----
-
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,c,cpp,androidstudio,firebase,flutter,react,nodejs,express,mongodb,git,github,vscode" />
@@ -54,7 +44,6 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
 
 ---
 
-## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -62,7 +51,7 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaydeep-kine-77bab0193/">
@@ -75,13 +64,7 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
 
 ---
 
-## ⚡ Fun Line  
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
 
 <p align="center">
   ⭐️ From <b>Jaydeep1202</b> — Keep Building 🚀
