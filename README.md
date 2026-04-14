@@ -53,10 +53,10 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaydeep-kine-77bab0193/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jaydeep@rtac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
