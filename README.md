@@ -28,12 +28,14 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,java,c,cpp,python,androidstudio,firebase,flutter,react,nodejs,express,mongodb,git,github,vscode,postman,linux,figma,bootstrap,tailwind,kotlin,docker" />
 </p>
 
+---
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep1202&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-
+---
 
 
 <p align="center">
