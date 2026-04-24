@@ -17,8 +17,8 @@
 
 <p align="center">
 I’m a Computer Engineering student who enjoys building practical, real-world applications.<br>
-Currently focused on Android development and backend systems, while strengthening my DSA fundamentals.<br>
-I prefer creating solutions that are simple, scalable, and actually useful in real life.
+Currently focused on Android, IOS development and building full fledged scalable systems, while strengthening my DSA fundamentals.<br>
+I prefer creating solutions that are simple, scalable, and actually solve some real problems in real life.
 </p>
 
 
@@ -28,13 +28,6 @@ I prefer creating solutions that are simple, scalable, and actually useful in re
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,java,c,cpp,python,androidstudio,firebase,flutter,react,nodejs,express,mongodb,git,github,vscode,postman,linux,figma,bootstrap,tailwind,kotlin,docker" />
 </p>
 
-
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaydeep1202&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img src="https://streak-stats.demolab.com?user=Jaydeep1202&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep1202&layout=compact&theme=tokyonight&hide_border=true"/>
