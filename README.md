@@ -35,6 +35,7 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep1202&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<br>
 ---
 
 
