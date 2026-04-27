@@ -48,7 +48,7 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME&color=orange" />
+  <img src="https://leetcard.jacoblin.cool/JaydeepKine?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
