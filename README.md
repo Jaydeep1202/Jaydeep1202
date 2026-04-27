@@ -46,6 +46,7 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
 ---
 <br>
 
+##  LeetCode  
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/JaydeepKine?theme=dark&font=Fira%20Code&ext=contest" />
