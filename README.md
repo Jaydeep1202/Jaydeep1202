@@ -43,7 +43,15 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+---
+<br>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+---
+<br>
 
 ## Connect With Me  
 
