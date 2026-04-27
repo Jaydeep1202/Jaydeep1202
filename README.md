@@ -2,7 +2,7 @@
 <h1 align="center">Hey , I'm Jaydeep Kine</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android+Developer;Backend+Enthusiast;DSA+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android+Developer;Full+Stack+Enthusiast;DSA+Learner;Building+Real+World+Projects" />
 </p>
 
 
