@@ -46,10 +46,27 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
 ---
 <br>
 
-##  LeetCode  
+##  My LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/JaydeepKine?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+---
+<br>
+
+## GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaydeep1202&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaydeep1202&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaydeep1202&theme=tokyonight" />
 </p>
 
 ---
