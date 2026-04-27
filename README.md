@@ -61,10 +61,6 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaydeep1202&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaydeep1202&theme=tokyonight" />
-</p>
-
 ---
 <br>
 
