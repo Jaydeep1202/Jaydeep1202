@@ -59,8 +59,8 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
   </a>
 </p>
 
-
-
+<br>
+---
 
 <p align="center">
   ⭐️ Keep Building 🚀
