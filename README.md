@@ -63,5 +63,5 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
 
 
 <p align="center">
-  ⭐️ From <b>Jaydeep1202</b> — Keep Building 🚀
+  ⭐️ Keep Building 🚀
 </p>
