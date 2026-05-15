@@ -31,13 +31,6 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
 ---
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep1202&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-<br>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -50,15 +43,6 @@ I prefer creating solutions that are simple, scalable, and actually solve some r
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/JaydeepKine?theme=dark&font=Fira%20Code&ext=contest" />
-</p>
-
----
-<br>
-
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaydeep1202&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
